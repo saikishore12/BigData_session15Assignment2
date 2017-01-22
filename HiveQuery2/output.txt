@@ -1,0 +1,110 @@
+Afghanistan     2
+Algeria 8
+Argentina       141
+Armenia 10
+Australia       524
+Austria 70
+Azerbaijan      25
+Bahamas 23
+Bahrain 1
+Barbados        1
+Belarus 92
+Belgium 18
+Botswana        1
+Brazil  220
+Bulgaria        36
+Cameroon        20
+Canada  351
+Chile   20
+China   450
+Chinese Taipei  20
+Colombia        13
+Costa Rica      1
+Croatia 76
+Cuba    188
+Cyprus  1
+Czech Republic  75
+Denmark 89
+Dominican Republic      5
+Ecuador 1
+Egypt   8
+Eritrea 1
+Estonia 16
+Ethiopia        24
+Finland 112
+France  287
+Gabon   1
+Georgia 23
+Germany 552
+Great Britain   296
+Greece  59
+Grenada 1
+Guatemala       1
+Hong Kong       3
+Hungary 132
+Iceland 15
+India   11
+Indonesia       22
+Iran    24
+Ireland 9
+Israel  4
+Italy   307
+Jamaica 61
+Japan   259
+Kazakhstan      42
+Kenya   38
+Kuwait  2
+Kyrgyzstan      3
+Latvia  17
+Lithuania       30
+Macedonia       1
+Malaysia        3
+Mauritius       1
+Mexico  38
+Moldova 5
+Mongolia        10
+Montenegro      14
+Morocco 10
+Mozambique      1
+Netherlands     286
+New Zealand     51
+Nigeria 39
+North Korea     21
+Norway  158
+Panama  1
+Paraguay        17
+Poland  73
+Portugal        9
+Puerto Rico     2
+Qatar   3
+Romania 97
+Russia  706
+Saudi Arabia    6
+Serbia  31
+Serbia and Montenegro   38
+Singapore       6
+Slovakia        33
+Slovenia        24
+South Africa    22
+South Korea     274
+Spain   195
+Sri Lanka       1
+Sudan   1
+Sweden  167
+Switzerland     87
+Syria   1
+Tajikistan      3
+Thailand        18
+Togo    1
+Trinidad and Tobago     16
+Tunisia 3
+Turkey  27
+Uganda  1
+Ukraine 137
+United Arab Emirates    1
+United States   1109
+Uruguay 1
+Uzbekistan      19
+Venezuela       4
+Vietnam 2
+Zimbabwe        2
